@@ -59,7 +59,8 @@ form i {
 
 /* navbar scrolled */
 #navbarScroll {
-    height: 100px;
+    height: 120px;
+    /* margin-top:-20px; */
     border: none;
 
 }
@@ -69,9 +70,9 @@ form i {
     background-color: white !important;
     border-bottom: 3px solid rgb(209, 207, 207);
     height: 150px;
-    top: -60px;
-    margin-top: 30px;
-    padding-top: 20px;
+    top: -10px;
+    margin-top: -20px !important;
+    padding-top: 30px;
     /* transition: background-color 0.4s ease-in-out; */
 
 
